@@ -4,4 +4,4 @@ Steps to run the project:
 
 Step 1 - Run command python main.py  -- This will train the model and will also save it for the use of app.py and predictions. This
                                           step will also save the Tokenizer and Label encoder  used file training.
-Step 2 - Run command streamlit run app.py  -- This will use the trained model ins above step to give the predictions
+Step 2 - Run command streamlit run app.py  -- This will use the trained model in above step to give the predictions
