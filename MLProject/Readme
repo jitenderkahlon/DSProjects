@@ -1,1 +1,5 @@
+Follow the below steps to run the project.
+Step1 - Run command python churn_main.py
+Step2 - Run command streamlit run churn_app.py
 
+Step 1 will train the Randomforest model and will also save it then in step 2 we will use the trained model for our predictions.
